@@ -1,12 +1,20 @@
 Hi there 👋
--🔭 I’m currently working on a web application to connect volunteers with organizations using the PERN stack.
--🌱 I’m currently learning more about backend development and Salesforce technologies.
--👯 I’m looking to collaborate on open source projects related to web development and fintech.
--🤔 I’m looking for help with optimizing database queries and performance tuning.
--💬 Ask me about web development, JavaScript, or Python.
--📫 How to reach me: LinkedIn
--😄 Pronouns: He/Him
--⚡ Fun fact: I love exploring new cities and trying out local cuisines!
+
+🔭 I’m currently working on a web application to connect volunteers with organizations using the PERN stack.
+
+🌱 I’m currently learning more about backend development and Salesforce technologies.
+
+👯 I’m looking to collaborate on open source projects related to web development and fintech.
+
+🤔 I’m looking for help with optimizing database queries and performance tuning.
+
+💬 Ask me about web development, JavaScript, or Python.
+
+📫 How to reach me: LinkedIn
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I love exploring new cities and trying out local cuisines!
 
 
 
