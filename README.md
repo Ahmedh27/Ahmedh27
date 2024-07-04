@@ -1,5 +1,4 @@
-<p align="center">Hi there 👋</p>
-
+Hi there 👋
 
 🔭 I’m currently working on a web application to connect volunteers with organizations using the PERN stack.
 
