@@ -1,4 +1,4 @@
-##Hi 👋, I'm Ahmed Hamouda##
+Hi 👋, I'm Ahmed Hamouda
 <h3 align="center">A passionate Software Engineer from New York 🏙️</h3>
 
 <h3 align="left">Connect with me:</h3>
