@@ -1,7 +1,7 @@
 Hi 👋, I'm Ahmed Hamouda
-<h3 align="center">A passionate Software Engineer from New York 🏙️</h3>
+A passionate Software Engineer from New York 🏙️
 
-<h3 align="left">Connect with me:</h3>
+<h9 align="left">Connect with me:</h9>
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmedhamouda1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedhamouda1" height="30" width="40" /></a>
 </p>
