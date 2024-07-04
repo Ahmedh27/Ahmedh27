@@ -1,12 +1,12 @@
-Hi there 👋
+<h4>Hi there 👋</h4>
 
-🔭 I’m currently working on a web application to connect volunteers with organizations using the PERN stack.
+<p>🔭 I’m currently working on a web application to connect volunteers with organizations using the PERN stack.</p>
 
 🌱 I’m currently learning more about backend development and Salesforce technologies.
 
 👯 I’m looking to collaborate on open source projects related to web development and fintech.
 
-💬 Ask me about web development, C++, or Python.
+💬 Ask me about web development, C++, or Python.</p>
 
 <h5 align="left">📫Connect with me:</h5>
 <p align="left">
