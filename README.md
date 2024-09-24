@@ -4,9 +4,9 @@
 
 🌱 I’m currently learning more about backend development and Salesforce technologies.
 
-👯 I’m looking to collaborate on open source projects related to web development and fintech.
+👯 I’m looking to collaborate on open source projects related to web development, Full-Stack Engineering fintech.
 
-💬 Ask me about web development, C++, or Python.</p>
+💬 Ask me about web development, Full-Stack Engineering, C++, or Python.</p>
 <h5 align="left">📫Connect with me:</h5> 
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmedhamouda1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedhamouda1" height="30" width="40" /></a>
