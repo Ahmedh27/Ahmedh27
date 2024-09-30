@@ -2,7 +2,7 @@
 
 <p>🔭 I’m currently working on a web application to connect volunteers with organizations using the PERN stack.</p>
 
-🌱 I’m currently learning more about backend development and Salesforce technologies.
+🌱 I’m currently learning more about backend development and ml technologies.
 
 👯 I’m looking to collaborate on open source projects related to web development, Full-Stack Engineering fintech.
 
