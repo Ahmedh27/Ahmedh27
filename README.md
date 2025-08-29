@@ -1,21 +1,15 @@
-<h4>hi there 👋</h4>
+<h3>Hi there 👋</h3>
+<p><b>CS @ CCNY ’26</b> · <b>2× SWE Intern @ Salesforce</b><br/>
+I build backend/infra and data-heavy web apps. Recent work: MCP servers/tools for natural-language graph queries on Amazon Neptune (Gremlin), a Slack-integrated agent + web UI, and reliability/observability upgrades.</p>
 
-<p>
-  cs @ ccny ’26 • 2x swe intern @ salesforce.<br/>
-  i build backend/infra and data-heavy web apps. recent work includes graph dbs (amazon neptune + gremlin), llm-powered tooling, and reliability-focused services — including <b>model context protocol (mcp)</b> servers/tools.
-</p>
+<p><b>Seeking:</b> New-Grad Software Engineer (Summer 2026) — backend, infra tooling, or full-stack.</p>
 
-<!-- impact highlights geared for new-grad swe recruiters -->
-<ul>
-  <li><b>mcp + graph:</b> built mcp servers/tools that expose amazon neptune (gremlin) to llm agents, enabling natural-language graph queries and faster topology checks.</li>
-  <li><b>shipping & observability:</b> delivered a slack-integrated agent and web ui; added structured json logging and sane log levels to improve signal during debugging.</li>
-  <li><b>quality & automation:</b> set up ci/cd with github actions; automated unit/integration/e2e tests (jest, pytest, playwright) on every push and pr with coverage reporting.</li>
-</ul>
 
-<p>🧭 <b>seeking:</b> new-grad software engineer roles (summer 2026 start).</p>
-<p>🌱 <b>learning:</b> scalable backend patterns, next.js + supabase/prisma, aws, testing & <b>ci/cd</b>, deeper <b>mcp</b> integrations.</p>
-<p>👯 <b>open to:</b> infra tooling, full-stack, fintech, and <b>mcp</b> tool development.</p>
-<p>💬 <b>ask me about:</b> backend <b>apis</b> (node/express, python), react/next, postgresql/supabase, testing (jest/playwright), c++/java/python, gremlin, <b>mcp</b>.</p>
+
+<p><b>Skills:</b> TypeScript, Python, Java, C++; Node/Express; PostgreSQL, Supabase/Prisma, MongoDB; Gremlin/Neptune; React/Next.js; AWS, Docker; GitHub Actions; Jest, PyTest, Playwright.</p>
+
+<p><b>Learning:</b> scalable backend patterns; deeper MCP integrations; Next.js + Supabase/Prisma; testing & CI/CD.</p>
+<p><b>Open to:</b> infra tooling, full-stack, fintech, and MCP tool development.</p>
 
 <h5 align="left">languages &amp; tools</h5>
 
