@@ -2,7 +2,7 @@
 <p><b>CS @ CCNY ’26</b> · <b>2× SWE Intern @ Salesforce</b><br/>
 I build backend/infra and data-heavy web apps. Recent work: MCP servers/tools for natural-language graph queries on Amazon Neptune (Gremlin), a Slack-integrated agent + web UI, and reliability/observability upgrades.</p>
 
-<p><b>Seeking:</b> New-Grad Software Engineer (Summer 2026) — backend, infra tooling, or full-stack.</p>
+<p><b>Seeking:</b> New-Grad Software Engineer (Summer 2026) — backend, infra tooling, full-stack, open to discuss diff roles.</p>
 
 
 
